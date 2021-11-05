@@ -3,7 +3,7 @@
 
   ## Description
 
-  This project allows the user to interact with a database of products, with accompanying categories and tags. The program uses Sequelize, node.js, and express. 
+  This project allows the user to interact with a database of products, with accompanying categories and tags. The program uses Sequelize, node.js, and express. A video demonstrating the functionality of this application can be found here: https://watch.screencastify.com/v/DLprsW9swkluS6EXnZMa
 
   ## Table of Contents
 
